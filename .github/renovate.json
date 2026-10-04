@@ -8,6 +8,11 @@
 			"automerge": true
 		},
 		{
+			"description": "@repobuddy/vitest (latest 2.4.1) peers vitest ^4; lift when it supports vitest 5.",
+			"matchPackageNames": ["vitest", "@vitest/*"],
+			"allowedVersions": "<5"
+		},
+		{
 			"description": "@types/node tracks the supported Node range, so bumps are a deliberate call.",
 			"matchPackageNames": ["@types/node"],
 			"automerge": false

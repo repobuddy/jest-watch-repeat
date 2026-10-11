@@ -1,5 +1,11 @@
 # jest-watch-repeat
 
+## 4.0.3
+
+### Patch Changes
+
+- f978577: Update `ansi-escapes` to v7.
+
 ## 4.0.2
 
 ### Patch Changes
